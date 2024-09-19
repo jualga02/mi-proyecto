@@ -2,3 +2,7 @@
     function devolverSaludo(){
         return "Buenos días";
     }
+
+    function saludoPersonalizado($nombre){
+        return "Buenos días, $nombre";
+    }
