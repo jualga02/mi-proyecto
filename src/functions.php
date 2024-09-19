@@ -8,5 +8,5 @@
     }
 
     function saludoSimple(){
-        return "Hola";
+        return "Hi!";
     }
