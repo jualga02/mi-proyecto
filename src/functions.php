@@ -6,3 +6,7 @@
     function saludoPersonalizado($nombre){
         return "Buenos días, $nombre";
     }
+
+    function saludoSimple(){
+        return "Hola";
+    }
