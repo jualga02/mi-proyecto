@@ -8,5 +8,6 @@
     }
 
     function saludoSimple(){
-        return "Hi!";
+        return "Hi there! <br>" . "I'm developing in PHP <br>";
+
     }
